@@ -7,22 +7,25 @@
 
 <h4>📊 <code>data/</code></h4>
 <ul>
-  <li> Contains the dataset used for the analysis, including raw and processed data files. The main dataset originates from the European Social Survey (ESS) and has been filtered to include only observations from France.</li>
+  <li> Explains how to retrieve the data from the European Social Survey's website (ESS) and convert it so as to make the dataset usable for the analysis. Also shows how to filter it in order to keep observations from France only.</li>
 </ul>
 
 <h4>📜 <code>docs/</code></h4>
 <ul>
-  <li> Includes supporting documentation such as research papers, methodology explanations, and references used in the analysis.</li>
+  <li> <code>ESS6_appendix_a6_e01_1.pdf/</code>: </li>
+  <li> <code>ESS6_appendix_a7_e01_0.pdf/</code>:</li>
+  <li> <code>ESS6_source_main_questionnaire.pdf/</code>: </li>
+  <li> <code>ESS_weighting_data_1_2.pdf/</code>: </li>
 </ul>
 
 <h4>📑 <code>report/</code></h4>
 <ul>
-  <li> Holds the final report summarizing findings, discussions, and conclusions on the socio-economic determinants of professional choices. The report includes various statistical analyses and visual representations.</li>
+  <li> Holds the final report summarizing findings and conclusions on the socio-economic determinants of professional choices. It also includes various statistical analyses and visual representations (pie, histogram, heatmap, ...).</li>
 </ul>
 
 <h4>🖥️ <code>src/</code></h4>
 <ul>
-  <li>Contains all scripts used for data processing, analysis, and visualization. These scripts handle data cleaning, variable transformations, statistical modeling, and graphical representation of results.</li>
+  <li>Contains the SAS script handling variable transformations, statistical modeling, and graphical representation of results.</li>
 </ul>
 
 <h3>✨ Notes</h3>
