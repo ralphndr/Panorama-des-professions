@@ -12,10 +12,10 @@
 
 <h4>📜 <code>docs/</code></h4>
 <ul>
-  <li> <code>ESS6_appendix_a6_e01_1.pdf/</code>: appendix describing all the classifications and coding standards used in the ESS survey. Used specifically for converting between ISCO-08 and socio-professional categories (CSP) </li>
-  <li> <code>ESS6_appendix_a7_e01_0.pdf/</code>: appendix describing all the parameters and their possible values</li>
-  <li> <code>ESS6_source_main_questionnaire.pdf/</code>: encompasses all the questions asked to the respondents as well as the possible answers</li>
-  <li> <code>ESS_weighting_data_1_2.pdf/</code>: guide to using weights with ESS Data </li>
+  <li> <code>ESS6_appendix_a6_e01_1.pdf/</code>: appendix describing all the classifications and coding standards used in the ESS survey. Used specifically for converting between ISCO-08 and socio-professional categories (CSP). </li>
+  <li> <code>ESS6_appendix_a7_e01_0.pdf/</code>: appendix describing all the parameters and their possible values.</li>
+  <li> <code>ESS6_source_main_questionnaire.pdf/</code>: encompasses all the questions asked to the respondents as well as the possible answers.</li>
+  <li> <code>ESS_weighting_data_1_2.pdf/</code>: guide to using weights with ESS Data. </li>
 </ul>
 
 <h4>📑 <code>report/</code></h4>
